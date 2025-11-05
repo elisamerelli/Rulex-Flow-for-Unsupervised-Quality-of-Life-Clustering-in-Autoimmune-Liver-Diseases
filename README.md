@@ -14,6 +14,7 @@ These datasets are available for research purposes.
 For access and further information, please contact:
 
 Elisa Merelli – e.merelli1@campus.unimib.it
+
 Alessio Gerussi – alessio.gerussi@unimib.it
 
 ### Data Preparation and Cleaning
@@ -51,4 +52,5 @@ A schematic representation of the pipeline and its main components is provided i
 ## References
 
 [1] R. J. A. L. M. Snijders et al., ‘Health-related quality of life is impaired in people with autoimmune hepatitis: Results of a multicentre cross-sectional study within the European Reference Network’, Hepatology, Feb. 2025, doi: 10.1097/HEP.0000000000001271. 
+
 [2] N. Uhlenbusch et al., ‘Improving quality of life in patients with rare autoimmune liver diseases by structured peer-delivered support (Q.RARE.LI): study protocol for a transnational effectiveness-implementation hybrid trial’, BMC Psychiatry, vol. 23, no. 1, p. 193, Mar. 2023, doi: 10.1186/s12888-023-04669-0. 
