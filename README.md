@@ -1,7 +1,7 @@
 # Rulex Flow for Unsupervised Quality-of-Life Clustering in Autoimmune Liver Diseases
 This repository contains the Rulex flow used in the study:
 _“Unsupervised Machine Learning Reveals Distinct Quality-of-Life Clusters Across Autoimmune Liver Diseases.”_ 
-Further methodological and application details can be found in the published paper, which presents the results obtained from a cohort of patients recruited across 12 European centers.
+Further methodological and application details can be found in the published paper, which presents the results obtained from a cohort of patients recruited across 12 international centers.
 
 ## Overview
 
